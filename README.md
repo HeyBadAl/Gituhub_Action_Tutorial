@@ -18,6 +18,8 @@ _Create a GitHub Action and use it in a workflow._
   Do not use quotes on the <details> tag attributes.
 -->
 
+there's some additional lines.
+
 <details id=0>
 <summary><h2>Welcome</h2></summary>
 
